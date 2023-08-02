@@ -1,0 +1,37 @@
+.partner-container {
+  padding-top: 50px;
+}
+
+.partner-container>div {
+  width: 672px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.partner-container button {
+  margin-top: 25px;
+}
+
+.sponsor-container {
+  display: flex;
+}
+
+.sponsor-title {
+  margin: 120px 0 0 0;
+}
+
+.sponsor-container img {
+  width: 130px;
+}
+
+.trusted-app-title {
+  font-family: var(--ff-heading);
+  font-weight: 600;
+  margin-top: 60px;
+  border-left: 2px solid var(--purple);
+  width: fit-content;
+  padding-left: 10px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
